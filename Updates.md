@@ -1,3 +1,10 @@
+### Update — 18/10/2026
+**Auto Rob (v2.2.6 BT):**
+```
+- Fixed oil rig pulling lever
+- Fixed casino getting stuck in elevator
+```
+--- 
 ### Update — 12/10/2026
 **Auto Rob (v2.2.5 BT):**
 ```
