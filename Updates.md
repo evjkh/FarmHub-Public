@@ -1,3 +1,12 @@
+### Update — 23/10/2026
+**Auto Arrest (v1.2 RE):**
+```
+- Changed vehicle return to adaptive height 
+- Slowed down teleport to target
+- Fixed not arresting
+- Removed some junk code
+```
+---
 ### Update — 18/10/2026
 **Auto Rob (v2.2.6 BT):**
 ```
