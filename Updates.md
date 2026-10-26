@@ -1,3 +1,9 @@
+### Update — 26/10/2026
+**Auto Rob (v2.2.7 BT):**
+```
+- Fixed entering / exiting of jewelry store
+```
+---
 ### Update — 23/10/2026
 **Auto Arrest (v1.2 RE):**
 ```
