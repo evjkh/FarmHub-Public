@@ -993,6 +993,10 @@ function Library:CreateWindow(WindowProperties)
 				end
 			end
 
+			function Toggle:SetColor(Color)
+				ToggleLabel.TextColor3 = Color
+			end
+
 			ToggleRow.MouseButton1Click:Connect(function()
 				Toggle:Set(not Toggle_State)
 			end)
